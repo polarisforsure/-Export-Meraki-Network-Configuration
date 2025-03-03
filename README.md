@@ -32,7 +32,7 @@ pip install meraki
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/meraki-config-backup.git
+git clone https://github.com/polarisforsure/-Export-Meraki-Network-Configuration.git
 cd meraki-config-backup
 ```
 
